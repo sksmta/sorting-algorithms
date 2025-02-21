@@ -1,0 +1,10 @@
+Algorithm, Dataset, Time(ns), Time(ms)
+Merge sort,int10,5180,0
+Merge sort,int50,4040,0
+Merge sort,int100,5270,0
+Merge sort,int1000,5960,0
+Merge sort,bad,4500,0
+Merge sort,int20k,3740,0
+Merge sort,dutch,5400,0
+Merge sort,int500k,6670,0
+Merge sort,intBig,5690,0

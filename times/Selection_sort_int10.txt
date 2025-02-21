@@ -1,0 +1,10 @@
+Algorithm, Dataset, Time(ns), Time(ms)
+Selection sort,int10,5000,0
+Selection sort,int50,4300,0
+Selection sort,int100,4700,0
+Selection sort,int1000,2400,0
+Selection sort,bad,1400,0
+Selection sort,int20k,3900,0
+Selection sort,dutch,2600,0
+Selection sort,int500k,2500,0
+Selection sort,intBig,5300,0

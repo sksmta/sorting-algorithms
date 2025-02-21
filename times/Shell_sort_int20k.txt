@@ -1,0 +1,10 @@
+Algorithm, Dataset, Time(ns), Time(ms)
+Shell sort,int10,4800,0
+Shell sort,int50,1900,0
+Shell sort,int100,3600,0
+Shell sort,int1000,3900,0
+Shell sort,bad,2200,0
+Shell sort,int20k,2200,0
+Shell sort,dutch,2000,0
+Shell sort,int500k,3200,0
+Shell sort,intBig,11300,0

@@ -1,0 +1,10 @@
+Algorithm, Dataset, Time(ns), Time(ms)
+Insertion sort,int10,3720,0
+Insertion sort,int50,3110,0
+Insertion sort,int100,3110,0
+Insertion sort,int1000,5090,0
+Insertion sort,bad,4180,0
+Insertion sort,int20k,3230,0
+Insertion sort,dutch,11350,0
+Insertion sort,int500k,3670,0
+Insertion sort,intBig,4580,0

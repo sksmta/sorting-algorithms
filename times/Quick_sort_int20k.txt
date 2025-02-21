@@ -1,0 +1,10 @@
+Algorithm, Dataset, Time(ns), Time(ms)
+Quick sort,int10,4800,0
+Quick sort,int50,2200,0
+Quick sort,int100,3200,0
+Quick sort,int1000,2300,0
+Quick sort,bad,3000,0
+Quick sort,int20k,3800,0
+Quick sort,dutch,3600,0
+Quick sort,int500k,8400,0
+Quick sort,intBig,4500,0
